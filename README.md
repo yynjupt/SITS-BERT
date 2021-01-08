@@ -15,16 +15,15 @@ You can find the paper at: https://ieeexplore.ieee.org/document/9252123.
   author={Y. {Yuan} and L. {Lin}},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={Self-Supervised Pre-Training of Transformers for Satellite Image Time Series Classification}, 
-  year={2020},
-  volume={},
+  year={2021},
+  volume={14},
   number={},
-  pages={1-14},
+  pages={474-487},
   doi={10.1109/JSTARS.2020.3036602}}
 
 ```
 
-Citation: Y. Yuan and L. Lin, "Self-Supervised Pre-Training of Transformers for Satellite Image Time Series Classification," 
-in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3036602.
+Citation: Y. Yuan and L. Lin, "Self-Supervised Pretraining of Transformers for Satellite Image Time Series Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 474-487, 2021, doi: 10.1109/JSTARS.2020.3036602.
 
 If you would like to get in touch, please contact yuanyuan@njupt.edu.cn, linlei1214@163.com.
 
